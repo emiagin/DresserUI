@@ -1,0 +1,16 @@
+{
+  "Name": "Dresser UI",
+  "Author": "EmiAgin",
+  "Version": "1.0.0",
+  "Description": "Update Dresser's UI and make it better",
+  "UniqueID": "EmiAgin.DresserUI",
+  "EntryDll": "DresserUI.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.SpaceCore",
+      "IsRequired": true
+    }
+  ]
+}
